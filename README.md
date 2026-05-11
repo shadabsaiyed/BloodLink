@@ -71,7 +71,7 @@ BloodLink/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/BloodLink.git
+git clone https://github.com/shadabsaiyed/BloodLink.git
 cd BloodLink
 ```
 
@@ -104,6 +104,5 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-## 👨‍💻 Author
-
-Your Name — [GitHub Profile](https://github.com/your-username)
+## 👨‍💻 Author 
+Shadab(https://github.com/shadabsaiyed)
