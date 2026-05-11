@@ -1,0 +1,72 @@
+{
+  "id": "0bf2ba73-7f48-4441-a15b-184aaeafa31f",
+  "name": "Untitled Page",
+  "storyboards": [
+    {
+      "id": "10d781bc-425c-4bac-a599-c4ab6291c0b6",
+      "width": 1440,
+      "height": 1024,
+      "x": 326,
+      "y": -1088,
+      "zIndex": 150,
+      "type": "APPLICATION",
+      "route": "/"
+    },
+    {
+      "id": "7f3ad7e4-cc41-472b-9721-e595026448bd",
+      "name": "Navbar",
+      "width": 1512,
+      "height": 80,
+      "x": -2727,
+      "y": 316,
+      "zIndex": 10,
+      "type": "COMPONENT",
+      "importPath": "./Navbar-7f3ad7e4.tsx"
+    },
+    {
+      "id": "0c2b5281-2ca3-4072-8f75-cbfec33a84c0",
+      "name": "HeroSection",
+      "width": 1512,
+      "height": 600,
+      "x": -1065,
+      "y": 316,
+      "zIndex": 20,
+      "type": "COMPONENT",
+      "importPath": "./Herosection-0c2b5281.tsx"
+    },
+    {
+      "id": "19d0b2c0-9c70-44dd-90eb-1b3160fe5c75",
+      "name": "AuthModal",
+      "width": 480,
+      "height": 600,
+      "x": 597,
+      "y": 316,
+      "zIndex": 30,
+      "type": "COMPONENT",
+      "importPath": "./Authmodal-19d0b2c0.tsx"
+    },
+    {
+      "id": "e36bbe87-98e4-4130-9592-1a644ae8376f",
+      "name": "StatisticsGrid",
+      "width": 1200,
+      "height": 200,
+      "x": 1227,
+      "y": 316,
+      "zIndex": 40,
+      "type": "COMPONENT",
+      "importPath": "./Statisticsgrid-e36bbe87.tsx"
+    },
+    {
+      "id": "20e9fa4b-9736-4a7c-a628-bf88fc92de20",
+      "name": "Storyboard1",
+      "width": 1440,
+      "height": 1024,
+      "x": -1434.0969645182292,
+      "y": -444.23328653971356,
+      "zIndex": 110,
+      "type": "COMPONENT",
+      "importPath": "./Storyboard1-20e9fa4b.tsx"
+    }
+  ],
+  "config_version": "1.0.0"
+}
